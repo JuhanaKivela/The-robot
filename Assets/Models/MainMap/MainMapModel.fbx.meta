@@ -38,6 +38,13 @@ ModelImporter:
     100064: Cube.023
     100066: Cube.024
     100068: Cylinder
+    100070: Cube.025
+    100072: Cube.026
+    100074: Cube.027
+    100076: Cube.028
+    100078: Cube.029
+    100080: Cube.030
+    100082: Cube.031
     400000: Cube
     400002: Empty
     400004: //RootNode
@@ -73,10 +80,18 @@ ModelImporter:
     400064: Cube.023
     400066: Cube.024
     400068: Cylinder
+    400070: Cube.025
+    400072: Cube.026
+    400074: Cube.027
+    400076: Cube.028
+    400078: Cube.029
+    400080: Cube.030
+    400082: Cube.031
     2100000: No Name
     2100002: Material
     2100004: Material.001
     2100006: GroundMaterial
+    2100008: BuildingMaterial
     2300000: Cube
     2300002: Plane
     2300004: Cube.001
@@ -109,6 +124,13 @@ ModelImporter:
     2300058: Cube.023
     2300060: Cube.024
     2300062: Cylinder
+    2300064: Cube.025
+    2300066: Cube.026
+    2300068: Cube.027
+    2300070: Cube.028
+    2300072: Cube.029
+    2300074: Cube.030
+    2300076: Cube.031
     3300000: Cube
     3300002: Plane
     3300004: Cube.001
@@ -141,6 +163,13 @@ ModelImporter:
     3300058: Cube.023
     3300060: Cube.024
     3300062: Cylinder
+    3300064: Cube.025
+    3300066: Cube.026
+    3300068: Cube.027
+    3300070: Cube.028
+    3300072: Cube.029
+    3300074: Cube.030
+    3300076: Cube.031
     4300000: Plane
     4300002: Cube
     4300004: Cube.008
@@ -173,6 +202,13 @@ ModelImporter:
     4300058: Cylinder
     4300060: Cube.023
     4300062: Cube.021
+    4300064: Cube.026
+    4300066: Cube.025
+    4300068: Cube.028
+    4300070: Cube.027
+    4300072: Cube.029
+    4300074: Cube.030
+    4300076: Cube.031
     2186277476908879412: ImportLogs
   externalObjects: {}
   materials:

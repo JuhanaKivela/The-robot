@@ -38,7 +38,7 @@ public class PlayerMovementScript : MonoBehaviour
         Application.targetFrameRate = 60;
         Cursor.visible = false;
         Cursor.lockState = CursorLockMode.Locked;
-        QualitySettings.SetQualityLevel(0, true);
+        //QualitySettings.SetQualityLevel(0, true); //FOR LAPTOP
 
         cameraObject = GameObject.FindGameObjectWithTag("PlayerCamera");
         movementController = gameObject.GetComponent<CharacterController>();
