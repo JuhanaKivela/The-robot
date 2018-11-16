@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 254c7dd1b9bdc2348a44c1d7b2387db1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cube
+    100002: Cylinder
+    100004: Empty
+    100006: Plane
+    100008: Plane.001
+    100010: Plane.002
+    100012: Plane.003
+    100014: Plane.004
+    100016: //RootNode
+    100018: Point
+    100020: Cube.001
+    100022: Cube.003
+    100024: Cube.002
+    100026: Cube.004
+    100028: Cylinder.001
+    100030: BezierCurve
+    100032: Cube.007
+    100034: Cube.008
+    100036: BezierCurve.001
+    100038: Empty.001
+    400000: Cube
+    400002: Cylinder
+    400004: Empty
+    400006: Plane
+    400008: Plane.001
+    400010: Plane.002
+    400012: Plane.003
+    400014: Plane.004
+    400016: //RootNode
+    400018: Point
+    400020: Cube.001
+    400022: Cube.003
+    400024: Cube.002
+    400026: Cube.004
+    400028: Cylinder.001
+    400030: BezierCurve
+    400032: Cube.007
+    400034: Cube.008
+    400036: BezierCurve.001
+    400038: Empty.001
+    2100000: No Name
+    2100002: BaseMaterial
+    2100004: Material.001
+    2100006: MagazineDarkMaterial
+    2100008: GlowingMaterial
+    2100010: GunDarkerMaterial
+    2100012: Material
+    2100014: BarrellMaterial
+    2100016: Barrel2Material
+    2300000: Cube
+    2300002: Cylinder
+    2300004: Plane
+    2300006: Plane.001
+    2300008: Plane.002
+    2300010: Plane.003
+    2300012: Plane.004
+    2300014: Cube.001
+    2300016: Cube.003
+    2300018: Cube.002
+    2300020: Cube.004
+    2300022: Cylinder.001
+    2300024: BezierCurve
+    2300026: Cube.007
+    2300028: Cube.008
+    2300030: BezierCurve.001
+    3300000: Cube
+    3300002: Cylinder
+    3300004: Plane
+    3300006: Plane.001
+    3300008: Plane.002
+    3300010: Plane.003
+    3300012: Plane.004
+    3300014: Cube.001
+    3300016: Cube.003
+    3300018: Cube.002
+    3300020: Cube.004
+    3300022: Cylinder.001
+    3300024: BezierCurve
+    3300026: Cube.007
+    3300028: Cube.008
+    3300030: BezierCurve.001
+    4300000: Cylinder
+    4300002: Plane.004
+    4300004: Plane.003
+    4300006: Cube
+    4300008: Plane.002
+    4300010: Plane.001
+    4300012: Plane
+    4300014: Cube.001
+    4300016: Cube.003
+    4300018: Cube.002
+    4300020: Cylinder.001
+    4300022: Cube.004
+    4300024: BezierCurve
+    4300026: Cube.007
+    4300028: Cube.008
+    4300030: BezierCurve.001
+    10800000: Point
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

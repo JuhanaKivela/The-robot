@@ -45,6 +45,7 @@ ModelImporter:
     100078: Cube.029
     100080: Cube.030
     100082: Cube.031
+    100084: Cube.032
     400000: Cube
     400002: Empty
     400004: //RootNode
@@ -87,6 +88,7 @@ ModelImporter:
     400078: Cube.029
     400080: Cube.030
     400082: Cube.031
+    400084: Cube.032
     2100000: No Name
     2100002: Material
     2100004: Material.001
@@ -131,6 +133,7 @@ ModelImporter:
     2300072: Cube.029
     2300074: Cube.030
     2300076: Cube.031
+    2300078: Cube.032
     3300000: Cube
     3300002: Plane
     3300004: Cube.001
@@ -170,6 +173,7 @@ ModelImporter:
     3300072: Cube.029
     3300074: Cube.030
     3300076: Cube.031
+    3300078: Cube.032
     4300000: Plane
     4300002: Cube
     4300004: Cube.008
@@ -209,6 +213,7 @@ ModelImporter:
     4300072: Cube.029
     4300074: Cube.030
     4300076: Cube.031
+    4300078: Cube.032
     2186277476908879412: ImportLogs
   externalObjects: {}
   materials:
