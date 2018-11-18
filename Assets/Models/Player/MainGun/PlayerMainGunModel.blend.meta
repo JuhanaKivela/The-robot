@@ -25,6 +25,10 @@ ModelImporter:
     100038: Plane_005
     100040: BezierCurve_001
     100042: Empty_001
+    100044: Cube_009
+    100046: Cube_010
+    100048: Cube_011
+    100050: Cube_012
     400000: Cube
     400002: Cylinder
     400004: Empty
@@ -47,6 +51,10 @@ ModelImporter:
     400038: Plane_005
     400040: BezierCurve_001
     400042: Empty_001
+    400044: Cube_009
+    400046: Cube_010
+    400048: Cube_011
+    400050: Cube_012
     2100000: unnamed
     2100002: BaseMaterial
     2100004: Material_001
@@ -75,6 +83,10 @@ ModelImporter:
     2300032: Cube_008
     2300034: Plane_005
     2300036: BezierCurve_001
+    2300038: Cube_009
+    2300040: Cube_010
+    2300042: Cube_011
+    2300044: Cube_012
     3300000: Cube
     3300002: Cylinder
     3300004: Plane
@@ -94,6 +106,10 @@ ModelImporter:
     3300032: Cube_008
     3300034: Plane_005
     3300036: BezierCurve_001
+    3300038: Cube_009
+    3300040: Cube_010
+    3300042: Cube_011
+    3300044: Cube_012
     4300000: Cylinder
     4300002: Plane_004
     4300004: Plane_003
@@ -113,6 +129,10 @@ ModelImporter:
     4300032: Cube_008
     4300034: Plane_005
     4300036: BezierCurve_001
+    4300038: Cube_009
+    4300040: Cube_010
+    4300042: Cube_011
+    4300044: Cube_012
     7400000: Default Take
     9500000: //RootNode
     2186277476908879412: ImportLogs

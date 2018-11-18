@@ -23,6 +23,13 @@ ModelImporter:
     100034: Cube.008
     100036: BezierCurve.001
     100038: Empty.001
+    100040: Cube.009
+    100042: Cube.005
+    100044: Cube.006
+    100046: Cube.010
+    100048: Plane.005
+    100050: Cube.011
+    100052: Cube.012
     400000: Cube
     400002: Cylinder
     400004: Empty
@@ -43,6 +50,13 @@ ModelImporter:
     400034: Cube.008
     400036: BezierCurve.001
     400038: Empty.001
+    400040: Cube.009
+    400042: Cube.005
+    400044: Cube.006
+    400046: Cube.010
+    400048: Plane.005
+    400050: Cube.011
+    400052: Cube.012
     2100000: No Name
     2100002: BaseMaterial
     2100004: Material.001
@@ -68,6 +82,13 @@ ModelImporter:
     2300026: Cube.007
     2300028: Cube.008
     2300030: BezierCurve.001
+    2300032: Cube.009
+    2300034: Cube.005
+    2300036: Cube.006
+    2300038: Cube.010
+    2300040: Plane.005
+    2300042: Cube.011
+    2300044: Cube.012
     3300000: Cube
     3300002: Cylinder
     3300004: Plane
@@ -84,6 +105,13 @@ ModelImporter:
     3300026: Cube.007
     3300028: Cube.008
     3300030: BezierCurve.001
+    3300032: Cube.009
+    3300034: Cube.005
+    3300036: Cube.006
+    3300038: Cube.010
+    3300040: Plane.005
+    3300042: Cube.011
+    3300044: Cube.012
     4300000: Cylinder
     4300002: Plane.004
     4300004: Plane.003
@@ -100,6 +128,13 @@ ModelImporter:
     4300026: Cube.007
     4300028: Cube.008
     4300030: BezierCurve.001
+    4300032: Cube.009
+    4300034: Cube.010
+    4300036: Plane.005
+    4300038: Cube.005
+    4300040: Cube.006
+    4300042: Cube.011
+    4300044: Cube.012
     10800000: Point
     2186277476908879412: ImportLogs
   externalObjects: {}
